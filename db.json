@@ -2,10 +2,17 @@
   "profiles": [
     { 
       "id": 1, 
-      "name": "Cuba no tênis",
-      "profile_pic": "https:////api.simplifiedcoding.in//images//tinder//ashley-tisdale.jpg",
+      "name": "Cuba no tenis",
+      "profile_pic": "",
       "age": 2,
       "distance": 5
     },
-  ],
+    { 
+      "id": 1, 
+      "name": "Cuba no tenis",
+      "profile_pic": "",
+      "age": 2,
+      "distance": 5
+    }
+  ]
 }
