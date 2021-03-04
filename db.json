@@ -3,9 +3,9 @@
     { 
       "id": 1, 
       "name": "Cuba no tênis",
-      "profile_pic": "https://api.simplifiedcoding.in/images/tinder/ashley-tisdale.jpg",
-      "age" : 2,
-      "distance" : 5
+      "profile_pic": "https:////api.simplifiedcoding.in//images//tinder//ashley-tisdale.jpg",
+      "age": 2,
+      "distance": 5
     },
   ],
 }
